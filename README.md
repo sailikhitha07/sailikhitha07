@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hey there👋, I'm SaiLikhitha</h1>
 <h3 align="center">A Data Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sailikhitha07&label=Profile%20views&color=0e75b6&style=flat" alt="sailikhitha07" /> </p>
-
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My friends find me funny.

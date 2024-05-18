@@ -8,13 +8,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailikhitha07&label=Profile%20views&color=0e75b6&style=flat" alt="sailikhitha07" /> </p>
 
-- 🌱 I’m currently learning **OpenCV**
-- 📫 How to reach me **likhithakotapati9596@gmail.com**
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My friends find me funny.
+-  👀 I’m interested in Deep Learning, Computer Vision.
 - 💡 I love exploring new data science techniques and staying updated with the latest trends in the field.
 - 📈 My goal is to leverage data science to drive impactful decisions and innovations.
-- 👀 I’m interested in Deep Learning, Computer Vision.
+- 🌱 I’m currently learning **OpenCV**
+- 📫 How to reach me **likhithakotapati9596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
